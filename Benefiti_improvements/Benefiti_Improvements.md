@@ -6,7 +6,9 @@ Environment: Windows 10 / screen resolution 1920 x 1080
 
 Attachment folder link : https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
 
-IMP1\. MEDIUM
+# Benefiti platform
+
+**IMP1\. MEDIUM**
 
 **Current:** The content on the platform is written in a mix of Serbian
 and English. Most of the content (tabs, elements, notifications) is
@@ -27,11 +29,12 @@ English) and enable the selection of one of them.
 in Serbia.
 
 
-HR
 
-Dashboard
+# HR
 
-IMP2\. LOW
+__Dashboard__
+
+**IMP2\. LOW**
 
 **Current:** The size and layout of elements currently cover
 approximately 75% of the dashboard page leaving some uncovered space.
@@ -43,7 +46,7 @@ they cover at least 95% of the dashboard page.
 size or fit perfectly increases visibility and user experience.
 
 
-IMP3\. HIGH
+**IMP3\. HIGH**
 
 **Current:** The user must change the date on each chart to get a
 complete report for a certain period.
@@ -55,9 +58,9 @@ charts. 
 chosen period; the user gets a complete report with one click, instead
 of the current six. 
 
-Benefits
+__Benefits__
 
-IMP4\. LOW
+**IMP4\. LOW**
 
 **Current:** On the right side of the page, below the search field there
 is a space.
@@ -67,12 +70,9 @@ is a space.
 **Reason:** It will improve the look and visibility of sections on the
 Benefits page, and similar design is used on the Member’s Benefits page.
 
-**Attachments:**
-
-https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
 
 
-5\. MEDIUM
+**5\. MEDIUM**
 
 **Current:** On the Benefits page prices on all Benefits cards are 0
 tokens. HR/Administrator must open the Benefit card and click the
@@ -83,7 +83,7 @@ Preview button to see the price.
 **Reason:** The main details of the benefit (summary, contract period,
 price) should be displayed on the cards.
 
-6\. LOW
+**6\. LOW**
 
 **Current:** The details of the benefit are not displayed on its page.
 The HR/Administrator must open the card and click the Preview button
