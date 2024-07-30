@@ -1,10 +1,10 @@
 Benefiti Improvements 
 
 The document includes improvements for UI/UX 
+Environment: Windows 10 / screen resolution 1920 x 1080
+Attachment folder link : https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
 
-Windows 10 / screen resolution 1920 x 1080
-
-1\. MEDIUM
+IMP1\. MEDIUM
 
 **Current:** The content on the platform is written in a mix of Serbian
 and English. Most of the content (tabs, elements, notifications) is
@@ -24,18 +24,12 @@ English) and enable the selection of one of them.
 **Reason:** The target group can be expanded to international companies
 in Serbia.
 
-**Attachments:**
-
-https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
-https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
-https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
-
 
 HR
 
 Dashboard
 
-2\. LOW
+IMP2\. LOW
 
 **Current:** The size and layout of elements currently cover
 approximately 75% of the dashboard page leaving some uncovered space.
@@ -46,11 +40,8 @@ they cover at least 95% of the dashboard page.
 **Reason:** A page covered with at least 95% elements that are the same
 size or fit perfectly increases visibility and user experience.
 
-https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
-https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
-https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
 
-3\. HIGH
+IMP3\. HIGH
 
 **Current:** The user must change the date on each chart to get a
 complete report for a certain period.
@@ -64,7 +55,7 @@ of the current six. 
 
 Benefits
 
-4\. LOW
+IMP4\. LOW
 
 **Current:** On the right side of the page, below the search field there
 is a space.
