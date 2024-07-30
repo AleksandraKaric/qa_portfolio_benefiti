@@ -1,7 +1,9 @@
-Benefiti Improvements 
+//**Benefiti Improvements **
 
 The document includes improvements for UI/UX 
+
 Environment: Windows 10 / screen resolution 1920 x 1080
+
 Attachment folder link : https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
 
 IMP1\. MEDIUM
