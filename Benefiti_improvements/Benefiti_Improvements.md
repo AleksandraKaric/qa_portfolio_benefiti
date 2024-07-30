@@ -46,6 +46,7 @@ they cover at least 95% of the dashboard page.
 size or fit perfectly increases visibility and user experience.
 
 
+
 **IMP3\. HIGH**
 
 **Current:** The user must change the date on each chart to get a
@@ -57,6 +58,8 @@ charts. 
 **Reason:** It shortens the time of displaying a complete report for a
 chosen period; the user gets a complete report with one click, instead
 of the current six. 
+
+
 
 __Benefits__
 
@@ -72,6 +75,7 @@ Benefits page, and similar design is used on the Member’s Benefits page.
 
 
 
+
 **5\. MEDIUM**
 
 **Current:** On the Benefits page prices on all Benefits cards are 0
@@ -82,6 +86,8 @@ Preview button to see the price.
 
 **Reason:** The main details of the benefit (summary, contract period,
 price) should be displayed on the cards.
+
+
 
 **6\. LOW**
 
