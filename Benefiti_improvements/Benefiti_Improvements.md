@@ -24,10 +24,12 @@ English) and enable the selection of one of them.
 **Reason:** The target group can be expanded to international companies
 in Serbia.
 
-<img src="media/image1.png" style="width:2.09167in;height:3.5in"
-alt="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZumPdq4BkLfeT_5_rmHgWuuHWC6At2l-Nx6xZsqeQxETWsPUtCU60aEWEY3rjfyke1R1iquruwp6tZOw5Zo_j82mHbQdl0mMatICJf3Dw_ODSJ8DsIRYXHpZ62iNSl2t90hXR01tS_jUOcuJflZDt2pnI?key=8qHrQzZS-eOIKM_pnd6cCQ" /><img src="media/image2.png" style="width:3.81667in;height:2.41667in"
-alt="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJvnpiqL9wt9EsEAOGfPNixZALqqwf7pxHA7Abl0N9Op4MwJO2mPVubWDTXjBMPbnv1IqClqbekWd9sMiYOY1plvbpGEioAcfb8LjYI6qQAh50ejl7YjSu_PMTJbXLu1J4xCPRZwcxqNjOwE4sNf00AYm3?key=8qHrQzZS-eOIKM_pnd6cCQ" /><img src="media/image3.png" style="width:1.875in;height:2.775in"
-alt="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-daMqU8wfXpUPK_T_fzoHcNAIet_SaFP1i72IF7bLsFKKWQ0RtwMOApi9Rr-8pRZPvNKCVfGsb3PIIMqQo1nEoBpJfy22JQKv4moEuLk33L4ThI5MMnxdPPe4stDoq7chg2KayjdGm2SGPhyu5TTgtQ?key=8qHrQzZS-eOIKM_pnd6cCQ" />
+**Attachments:**
+
+https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
+https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
+https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
+
 
 HR
 
@@ -44,10 +46,9 @@ they cover at least 95% of the dashboard page.
 **Reason:** A page covered with at least 95% elements that are the same
 size or fit perfectly increases visibility and user experience.
 
-<img src="media/image4.png" style="width:5.54167in;height:3.10833in"
-alt="https://lh7-rt.googleusercontent.com/docsz/AD_4nXerXNZmMP_mrms1HsSSa5LzxU5YxLZwcTwI-FbESv4KjjM4-J1-UMzDPR93OsL2qf-sZGM2wYbguRJxltC6A08qsul4150U3cqKV3IVVJ6qaJE-SlfOJdpr3v1XwYuDF6Om9akJ8d5udzW4FYJChk1qGwya?key=8qHrQzZS-eOIKM_pnd6cCQ" /><img src="media/image5.png" style="width:5.5in;height:3.08333in"
-alt="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFHehgoPxY03ZHw6f0OpeFt63aO9rL-5wY8RZ5Ru8Aaoyx3btV-rvXs9j1AZRaFlQwaDynzXPl3rDegXTLd8EIVi284pa5BtH4hOVIDp3yRKrRKbjYHmcMEEpkOCMV8pzGrsUEP6EPrq5qsFccuYC3Rr8t?key=8qHrQzZS-eOIKM_pnd6cCQ" /><img src="media/image6.png" style="width:5.49167in;height:3.06667in"
-alt="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEzHBi2cAQLZH7EEjM2I6KOsXt06JegfxZEtqKNNu_w_k5u41Ev-zzOgefHnUCw--YujYII68VzG6YBPHpzREnrvqK6zz05uGE-WEqnQeLy6w9YhG8jENvNtSyqYxBUSOpywKRS1pWtyuo77xO7xWREezp?key=8qHrQzZS-eOIKM_pnd6cCQ" />
+https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
+https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
+https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
 
 3\. HIGH
 
@@ -73,8 +74,10 @@ is a space.
 **Reason:** It will improve the look and visibility of sections on the
 Benefits page, and similar design is used on the Member’s Benefits page.
 
-<img src="media/image7.png" style="width:5.6in;height:2.96667in"
-alt="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtePsmxQC5FLQw463TiIfls6xtnGWaflCaDwP8awkgPbuQ-IH3PeJKp-f0KcVv3haV_cdQdFfwvsGAGp7ancD6wFVBRtgK7CDNi4_KgRqRzorcffczK7naNJ1CNeO9F0g5SwKFiGPJkd4yPMoZXEeDUCNV?key=8qHrQzZS-eOIKM_pnd6cCQ" />
+**Attachments:**
+
+https://drive.google.com/drive/folders/17FOBO35EIZjBIqDT2vJeGg-cv9enqvk3
+
 
 5\. MEDIUM
 
