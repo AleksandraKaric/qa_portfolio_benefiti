@@ -1,6 +1,6 @@
 Welcome to creating SQL queries in MySQL using dump files hogwards.library and hogwarts.characters. In this task, I utilized commands such as SELECT, WHERE, BETWEEN, AS, LIKE, ORDER BY, UNION, and JOIN to extract and manipulate data from these files.
 
-1. This query retrieves the first name, last name, and patronus of characters from the table with a specified patronus assigned to them.
+1. This query retrieves the first name, last name, and patronus of characters from the table with a specified patronus assigned to them.<br />
 SELECT fname, lname, patronus 
 FROM characters 
 WHERE patronus IS NOT NULL;
