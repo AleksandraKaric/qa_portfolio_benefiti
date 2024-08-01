@@ -343,6 +343,7 @@ Company Benefit Group list.</td>
 </table>
 
 <br /> 
+
 # Test Case ID: TC4
 
 Test Priority (Low/Medium/High): **High**
@@ -441,6 +442,7 @@ benefit</td>
 </table>
 
 <br /> 
+
 # Test Case ID: TC5
 
 Test Priority (Low/Medium/High): **Medium**
