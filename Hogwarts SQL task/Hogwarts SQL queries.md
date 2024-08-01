@@ -1,13 +1,14 @@
 Welcome to creating SQL queries in MySQL using dump files hogwards.library and hogwarts.characters. In this task, I utilized commands such as SELECT, WHERE, BETWEEN, AS, LIKE, ORDER BY, UNION, and JOIN to extract and manipulate data from these files.
 
 1. This query retrieves the first name, last name, and patronus of characters from the table with a specified patronus assigned to them.<br />
-SELECT fname, lname, patronus 
-FROM characters 
-WHERE patronus IS NOT NULL;
 
-2. This query will return all last names from the table that meet this specific criteria, allowing for the retrieval of character last names that end with the letter "e."
-Ispišite prezime likova čije prezime završava slovom 'e'.
-	SELECT lname 
+SELECT fname, lname, patronus <br />
+FROM characters <br />
+WHERE patronus IS NOT NULL;<br />
+<br />
+2. This query will return all last names from the table that meet this specific criteria, allowing for the retrieval of character last names that end with the letter "e." <br />
+
+SELECT lname 
 FROM characters 
 WHERE lname LIKE '%e';
 
