@@ -4,7 +4,7 @@ This document contains examples of basic HTTPS requests for Swagger Pet Stor cre
  [here](https://www.postman.com/payload-physicist-42439854/workspace/qa-portfolio/collection/26864893-b0f26524-8266-4d9d-8809-f6bc44255d8a?action=share&creator=26864893) and the main parts of the requests are written below.
 
 
-# 1. POST Add a new pet with valid input
+## 1. POST Add a new pet with valid input
 
 **url request and method**<br />
 POST {{baseUrl}}/pet
@@ -55,7 +55,7 @@ pm.collectionVariables.get("petID");
 
 
 
-# 2. GET Verify add a new pet
+## 2. GET Verify add a new pet
 
 **url request and method**<br />
 GET {{baseUrl}}/pet/25
@@ -74,7 +74,7 @@ pm.test("Status code is 200", function () {
     pm.response.to.have.status(200);
 });
 
-# 3. PUT Update an existing pet
+## 3. PUT Update an existing pet
 
 
 **url request and method**<br />
@@ -141,7 +141,7 @@ pm.test("Content-Type is present", function () {
 });
 
 
-# 5. DELETE Remove non-existent pet from the store
+## 5. DELETE Remove non-existent pet from the store
 
 **url request and method**<br />
 {{baseUrl}}/pet/1
