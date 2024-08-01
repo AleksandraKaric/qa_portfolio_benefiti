@@ -236,7 +236,7 @@ saved.</td>
 </table>
 
 
-<br /> 
+
 # Test Case ID: TC3
 
 Test Priority (Low/Medium/High): **High**
