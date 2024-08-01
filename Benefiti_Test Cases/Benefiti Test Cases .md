@@ -1,6 +1,7 @@
-Functionality: Company Benefits
+# This document shows test cases for the basic functionalities of the Company Benefits feature.
 
-HAPPYPATH
+HAPPYPATH <br /> 
+
 
 Test Case ID: TC1
 
@@ -10,6 +11,7 @@ Test Modul: **Company Benefits**
 
 Test Title: **Verify Add new Company Benefits Group with the required
 fields.**
+
 
 Test Designed by: **Aleksandra Karić**
 
@@ -104,6 +106,7 @@ displayed on the list</td>
 </tbody>
 </table>
 
+
 Test Case ID: TC2
 
 Test Priority (Low/Medium/High): **High**
@@ -111,6 +114,7 @@ Test Priority (Low/Medium/High): **High**
 Test Modul: **Company Benefits**
 
 Test Title: **Verify Edit Company Benefits Group filling all fields.**
+
 
 Test Designed by: **Aleksandra Karić**
 
@@ -122,8 +126,7 @@ Test Executed date: 12.6.2024.
 
 Precondition:
 
-1.  The user is logged in as an HR
-
+1.  The user is logged in as an HR <br />  
 2.  There is a created Benefit Group
 
 <table>
@@ -231,6 +234,8 @@ saved.</td>
 </tbody>
 </table>
 
+
+
 Test Case ID: TC3
 
 Test Priority (Low/Medium/High): **High**
@@ -239,6 +244,7 @@ Test Modul: **Company Benefits**
 
 Test Title: **Verify that the user has added local benefits in the
 benefits group with the required fields.**
+
 
 Test Designed by: **Aleksandra Karić**
 
@@ -250,8 +256,7 @@ Test Executed date: 12.6.2024.
 
 Precondition:
 
-1.  The user is logged in as an HR
-
+1.  The user is logged in as an HR <br /> 
 2.  There is a created Benefit Group
 
 <table>
@@ -336,6 +341,7 @@ Company Benefit Group list.</td>
 </tbody>
 </table>
 
+
 Test Case ID: TC4
 
 Test Priority (Low/Medium/High): **High**
@@ -344,6 +350,7 @@ Test Modul: **Company Benefits**
 
 Test Title: **Verify that tokens are returned to the user after deleting
 the selected benefit.**
+
 
 Test Designed by: **Aleksandra Karić**
 
@@ -355,8 +362,7 @@ Test Executed date: 12.6.2024.
 
 Precondition:
 
-1.  The user is logged in as an HR
-
+1.  The user is logged in as an HR <br /> 
 2.  There is one employee who has a subscription to the Company benefit
     that costs more than 0 tokens
 
@@ -433,6 +439,7 @@ benefit</td>
 </tbody>
 </table>
 
+
 Test Case ID: TC5
 
 Test Priority (Low/Medium/High): **Medium**
@@ -444,6 +451,7 @@ Test Title: **Verify the user can delete only an empty Benefit Group**
 Description: **The User can delete the Benefits Group after deleting all
 benefits belongings to this group.**
 
+
 Test Designed by: **Aleksandra Karić**
 
 Test Designed date: 12.6.2024
@@ -454,8 +462,7 @@ Test Executed date: 12.6.2024.
 
 Precondition:
 
-1\. The user is logged in as an HR
-
+1\. The user is logged in as an HR <br /> 
 2\. There is a created Benefit Group with 1 benefit within.
 
 <table>
