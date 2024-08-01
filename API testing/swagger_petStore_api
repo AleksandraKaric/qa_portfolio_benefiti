@@ -1,6 +1,6 @@
 # API testiranje_Swagger PetStore
 
-This document contains examples of basic HTTPS requests for Swagger Pet Stor created using Postman.The link to the Postman collection is (https://www.postman.com/payload-physicist-42439854/workspace/qa-portfolio/collection/26864893-b0f26524-8266-4d9d-8809-f6bc44255d8a?action=share&creator=26864893), and the main parts of the requests are written below.
+This document contains examples of basic HTTPS requests for Swagger Pet Stor created using Postman.The link to the Postman collection is [(https://www.postman.com/payload-physicist-42439854/workspace/qa-portfolio/collection/26864893-b0f26524-8266-4d9d-8809-f6bc44255d8a?action=share&creator=26864893)], and the main parts of the requests are written below.
 
 
 # 1. POST Add a new pet with valid input
