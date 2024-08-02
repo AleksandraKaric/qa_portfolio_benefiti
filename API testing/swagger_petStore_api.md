@@ -13,25 +13,25 @@ This document contains examples of basic HTTPS requests for Swagger Pet Stor cre
 API Key
 
 **Body**<br />
-  {
-    "id": {{petID}},
-    "category": {
-      "id": 100,
-      "name": "string"
-    },
-    "name": "doggie",
-    "photoUrls": [
-      "string"
-    ],
-    "tags": [
-      {
+    {
+      "id": {{petID}},
+      "category": {
         "id": 100,
         "name": "string"
-   
-     }
-    ],
-    "status": "available"
-  }
+      },
+      "name": "doggie",
+      "photoUrls": [
+        "string"
+      ],
+      "tags": [
+        {
+          "id": 100,
+          "name": "string"
+     
+       }
+      ],
+      "status": "available"
+    }
 
 **Scripts**<br />
 Pre-request
