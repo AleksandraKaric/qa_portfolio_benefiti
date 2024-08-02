@@ -76,13 +76,17 @@ pm.test("Content-Type is present", **function** () {
 
 pm.collectionVariables.**get**("petID");
 
-**2.GET Verify add a new pet**
 
-url request and method
+
+## 2.GET Verify add a new pet
+
+**url request and method**
 
 GET {{baseUrl}}/pet/25
 
+
 ﻿**Authorization**: API Key
+ 
 
 **Scripts**
 
@@ -98,15 +102,16 @@ pm.test("Status code is 200", **function** () {
 
 });
 
-3.  **PUT Update an existing pet**
 
-url request and method
+## 3.PUT Update an existing pet
+
+
+**url request and method**
 
 PUT {{baseUrl}}/pet
 
-**Authorization**
 
-API Key
+**Authorization:** API Key
 
 **Body**
 
@@ -146,19 +151,17 @@ API Key
 
 }
 
-4.  **DELETE Remove a pet from the store**
+## 4.DELETE Remove a pet from the store
 
-url request and method
+**url request and method**
 
-{{baseUrl}}/pet/651
+DELETE {{baseUrl}}/pet/651
 
-**Authorization**
-
-API Key
+**Authorization:** API Key
 
 **Scripts**
 
-Post-scripts
+**Post-scripts**
 
 pm.test("Status code is 200", **function** () {
 
@@ -190,21 +193,19 @@ pm.test("Content-Type is present", **function** () {
 
 });
 
-5.  **DELETE Remove non-existent pet from the store**
+## 5.DELETE Remove non-existent pet from the store
 
-url request and method
+**url request and method**
 
-{{baseUrl}}/pet/1
+DELETE {{baseUrl}}/pet/1
 
-﻿
 
-**Authorization**
+**Authorization:** API Key
 
-API Key
 
 **Scripts**
 
-Post-scripts
+**Post-scripts**
 
 pm.test("Status code is 404", **function** () {
 
