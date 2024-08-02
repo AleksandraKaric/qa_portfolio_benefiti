@@ -15,21 +15,37 @@ POST {{baseUrl}}/pet
 
   {
     "id": *{{petID}}*,
+    
     "category": {
+    
       "id": 100,
+      
       "name": "string"
+      
     },
+    
     "name": "doggie",
+    
     "photoUrls": \[
+    
       "string"
+      
     \],
+    
     "tags": \[
+    
       {
+      
         "id": 100,
+        
         "name": "string"
+        
      }
+     
     \],
+    
     "status": "available"
+    
   }
 
 **Scripts**
