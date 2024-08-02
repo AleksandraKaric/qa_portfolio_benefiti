@@ -17,7 +17,7 @@ Actual result: No dropdown menu is displayed on the “Nivo edukacije” screen.
 
 Priority/Severity: Medium/Medium 
 
-[Attachment:]([https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoIZ1680h68aDA_yi/benefitiname.png](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoIZ1680h68aDA_yi))
+Link to [attachment:]([https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoIZ1680h68aDA_yi/benefitiname.png](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoIZ1680h68aDA_yi)
 
 
 
