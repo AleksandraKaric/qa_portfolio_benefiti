@@ -12,12 +12,12 @@ Steps to reproduce:
 Tap the the field “+ Dodaj edukaciju”
 Tap the field “Nivo edukacije”
 
-Expected result: The user can select a degree level from the dropdown menu.
+Expected result: The user can select a degree level from the dropdown menu. <br />
 Actual result: No dropdown menu is displayed on the “Nivo edukacije” screen.
 
 Priority/Severity: Medium/Medium 
 
-Attachments:
+Attachments: ![Attachment:](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoIZ1680h68aDA_yi.svg)
 
 
 
@@ -37,7 +37,7 @@ Actual result: The name of some benefits are cut off.
 
 Priority/Severity: Medium/Medium
 
-Attachment: ![](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoIZ1680h68aDA_yi)
+Attachment:
 
 
 ID: bug_3  
