@@ -12,9 +12,8 @@
 **Precondition:** The user has successfully fulfilled previous steps for registration and it is on “Edukacija” screen <br />
 **Steps to reproduce:** 
 
-Tap the the field “+ Dodaj edukaciju”
-
-Tap the field “Nivo edukacije”
+    Tap the the field “+ Dodaj edukaciju”
+    Tap the field “Nivo edukacije”
 
 **Expected result:** The user can select a degree level from the dropdown menu. <br />
 **Actual result:** No dropdown menu is displayed on the “Nivo edukacije” screen.
@@ -35,15 +34,12 @@ Link to [attachment:](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoI
 **Precondition:** The user donn't have an acoount
 
 **Steps to reproduce:**
-Open the app
 
-With valid data register an email
-
-Log in to app
-
-With valid data fill all required steps and proced to Benefiti screen
-
-Pay attention to the screen elements
+    Open the app
+    With valid data register an email
+    Log in to app
+    With valid data fill all required steps and proced to Benefiti screen
+    Pay attention to the screen elements
 
 **Expected result:** The user can see the full name of benefits and select/change it. <br />
 **Actual result:** The name of some benefits are cut off.
@@ -65,9 +61,8 @@ Link to [attachment:](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoI
 
 **Steps to reproduce:** 
 
-Open the app
-
-Tap Profil screen
+    Open the app
+    Tap Profil screen
 
 
 **Expected result:** The “Odjavi me” and “Obriši profil” sections are separate from the top sections at least by the size of one section. <br />
