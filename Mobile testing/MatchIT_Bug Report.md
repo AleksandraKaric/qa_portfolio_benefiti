@@ -12,8 +12,8 @@
 **Precondition:** The user has successfully fulfilled previous steps for registration and it is on “Edukacija” screen <br />
 **Steps to reproduce:** 
 
-    Tap the the field “+ Dodaj edukaciju”
-    Tap the field “Nivo edukacije”
+1. Tap the the field “+ Dodaj edukaciju”
+2. Tap the field “Nivo edukacije”
 
 **Expected result:** The user can select a degree level from the dropdown menu. <br />
 **Actual result:** No dropdown menu is displayed on the “Nivo edukacije” screen.
@@ -27,7 +27,7 @@ Link to [attachment:](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoI
 ### ID: bug_2  
 
 **Summary:** User - Benefiti | Some benefits full-name are not displayed. <br />
-**Description:** Some benefits name are not properly displayed as it showen on Android.For example “Privatno zdravstveno osiguranje” and “Privatno zdravstveno osiguranje za članove porodice” cannot be distinguished, “Fleksibilno radno…” etc.
+**Description:** Some benefits name are not properly displayed as it showen on Android. For example “Privatno zdravstveno osiguranje” and “Privatno zdravstveno osiguranje za članove porodice” cannot be distinguished, “Fleksibilno radno…” etc.
 
 **Environment:** iPhone 8, iOS 16.7.8
 
@@ -35,11 +35,11 @@ Link to [attachment:](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoI
 
 **Steps to reproduce:**
 
-    Open the app
-    With valid data register an email
-    Log in to app
-    With valid data fill all required steps and proced to Benefiti screen
-    Pay attention to the screen elements
+1. Open the app
+2. With valid data register an email
+3. Log in to app
+4. With valid data fill all required steps and proced to Benefiti screen
+5. Pay attention to the screen elements
 
 **Expected result:** The user can see the full name of benefits and select/change it. <br />
 **Actual result:** The name of some benefits are cut off.
@@ -61,8 +61,8 @@ Link to [attachment:](https://drive.google.com/drive/folders/1MAeEN1NqCo8exmpjoI
 
 **Steps to reproduce:** 
 
-    Open the app
-    Tap Profil screen
+1. Open the app
+2. Tap Profil screen
 
 
 **Expected result:** The “Odjavi me” and “Obriši profil” sections are separate from the top sections at least by the size of one section. <br />
