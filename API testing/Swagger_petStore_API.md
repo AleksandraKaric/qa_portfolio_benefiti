@@ -1,14 +1,11 @@
-**API testiranje_Swagger PetStore**
+#API testiranje_Swagger PetStore
 
-This document contains examples of basic HTTPS requests for Swagger Pet
-Stor created using Postman.The link to the Postman collection is
-
-\[here\](https://www.postman.com/payload-physicist-42439854/workspace/qa-portfolio/collection/26864893-b0f26524-8266-4d9d-8809-f6bc44255d8a?action=share&creator=26864893)
+This document contains examples of basic HTTPS requests for Swagger Pet Stor created using Postman.The link to the Postman collection is [here](https://www.postman.com/payload-physicist-42439854/workspace/qa-portfolio/collection/26864893-b0f26524-8266-4d9d-8809-f6bc44255d8a?action=share&creator=26864893)
 and the main parts of the requests are written below.
 
-1.  **POST Add a new pet with valid input**
+## 1.POST Add a new pet with valid input
 
-url request and method
+**url request and method**
 
 POST {{baseUrl}}/pet
 
@@ -16,43 +13,24 @@ POST {{baseUrl}}/pet
 
 **Body**
 
-{
-
-  "id": *{{petID}}*,
-
-  "category": {
-
-    "id": 100,
-
-    "name": "string"
-
-  },
-
-  "name": "doggie",
-
-  "photoUrls": \[
-
-    "string"
-
-  \],
-
-  "tags": \[
-
-    {
-
-      "id": 100,
-
-      "name": "string"
-
- 
-
-   }
-
-  \],
-
-  "status": "available"
-
-}
+  {
+    "id": *{{petID}}*,
+    "category": {
+      "id": 100,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": \[
+      "string"
+    \],
+    "tags": \[
+      {
+        "id": 100,
+        "name": "string"
+     }
+    \],
+    "status": "available"
+  }
 
 **Scripts**
 
