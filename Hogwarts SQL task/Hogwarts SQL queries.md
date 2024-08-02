@@ -2,9 +2,9 @@ Welcome to creating SQL queries in MySQL using dump files hogwards.library and h
 
 **1. This query retrieves the first name, last name, and patronus of characters from the table with a specified patronus assigned to them.** <br />
 
-  SELECT fname, lname, patronus <br />
-  FROM characters <br />
-  WHERE patronus IS NOT NULL;<br />
+    SELECT fname, lname, patronus <br />
+    FROM characters <br />
+    WHERE patronus IS NOT NULL;<br />
 
 **2. This query will return all last names from the table that meet this specific criteria, allowing for the retrieval of character last names that end with the letter "e."** <br />
 
