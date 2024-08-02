@@ -76,7 +76,7 @@ Benefits page, and similar design is used on the Member’s Benefits page.
 
 
 
-**5\. MEDIUM**
+**IMP5\. MEDIUM**
 
 **Current:** On the Benefits page prices on all Benefits cards are 0
 tokens. HR/Administrator must open the Benefit card and click the
@@ -89,7 +89,7 @@ price) should be displayed on the cards.
 
 
 
-**6\. LOW**
+**IMP6\. LOW**
 
 **Current:** The details of the benefit are not displayed on its page.
 The HR/Administrator must open the card and click the Preview button
