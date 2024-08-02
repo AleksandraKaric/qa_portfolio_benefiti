@@ -1,9 +1,8 @@
 # This document shows test cases for the basic functionalities of the Company Benefits feature.
 
-# HAPPYPATH <br /> 
 
 
-# Test Case ID: TC1
+## Test Case ID: TC1
 
 Test Priority (Low/Medium/High): **High**
 
@@ -108,7 +107,7 @@ displayed on the list</td>
 
 
 
-# Test Case ID: TC2
+## Test Case ID: TC2
 
 Test Priority (Low/Medium/High): **High**
 
@@ -237,7 +236,7 @@ saved.</td>
 
 
 
-# Test Case ID: TC3
+## Test Case ID: TC3
 
 Test Priority (Low/Medium/High): **High**
 
@@ -344,7 +343,7 @@ Company Benefit Group list.</td>
 
 <br /> 
 
-# Test Case ID: TC4
+## Test Case ID: TC4
 
 Test Priority (Low/Medium/High): **High**
 
@@ -443,7 +442,7 @@ benefit</td>
 
 <br /> 
 
-# Test Case ID: TC5
+## Test Case ID: TC5
 
 Test Priority (Low/Medium/High): **Medium**
 
