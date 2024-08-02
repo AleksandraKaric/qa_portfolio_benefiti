@@ -11,7 +11,24 @@ This document contains examples of basic HTTPS requests for Swagger Pet Stor cre
 
 **Authorization:**<br />
 API Key
-
+  {
+    "id": {{petID}},
+    "category": {
+      "id": 100,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 100,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  } 
 **Body**<br />
     {
       "id": {{petID}},
